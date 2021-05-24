@@ -1,0 +1,450 @@
+[
+    {
+        "redBoxses": [
+            {
+                "xPos": 3,
+                "yPos": 3,
+                "txPos": 4,
+                "tyPos": 3
+            }
+        ],
+        "startWire": {
+            "xPos": 4,
+            "yPos": 6
+        },
+        "endWire": {
+            "xPos": 4,
+            "yPos": 0
+        },
+        "grayBoxes": [
+            {
+                "xPos": 4,
+                "yPos": 1
+            },
+            {
+                "xPos": 4,
+                "yPos": 2
+            },
+            {
+                "xPos": 4,
+                "yPos": 4
+            },
+            {
+                "xPos": 4,
+                "yPos": 5
+            }
+        ],
+        "blackboxes": [],
+        "blowfans": []
+    },
+    {
+        "redBoxses": [
+            {
+                "xPos": 2,
+                "yPos": 2,
+                "txPos": 3,
+                "tyPos": 2
+            },
+            {
+                "xPos": 4,
+                "yPos": 4,
+                "txPos": 4,
+                "tyPos": 3
+            }
+        ],
+        "startWire": {
+            "xPos": 6,
+            "yPos": 3
+        },
+        "endWire": {
+            "xPos": 3,
+            "yPos": 0
+        },
+        "grayBoxes": [
+            {
+                "xPos": 5,
+                "yPos": 3
+            },
+            {
+                "xPos": 3,
+                "yPos": 3
+            },
+            {
+                "xPos": 3,
+                "yPos": 1
+            }
+        ],
+        "blackboxes": [],
+        "blowfans": []
+    },
+    {
+        "redBoxses": [
+            {
+                "xPos": 7,
+                "yPos": 3,
+                "txPos": 4,
+                "tyPos": 3
+            }
+        ],
+        "startWire": {
+            "xPos": 4,
+            "yPos": 8
+        },
+        "endWire": {
+            "xPos": 2,
+            "yPos": 0
+        },
+        "grayBoxes": [
+            {
+                "xPos": 2,
+                "yPos": 1
+            },
+            {
+                "xPos": 2,
+                "yPos": 2
+            },
+            {
+                "xPos": 2,
+                "yPos": 3
+            },
+            {
+                "xPos": 3,
+                "yPos": 3
+            },
+            {
+                "xPos": 4,
+                "yPos": 4
+            },
+            {
+                "xPos": 4,
+                "yPos": 5
+            },
+            {
+                "xPos": 4,
+                "yPos": 6
+            },
+            {
+                "xPos": 4,
+                "yPos": 7
+            }
+        ],
+        "blackboxes": [
+            {
+                "xPos": 5,
+                "yPos": 2
+            },
+            {
+                "xPos": 5,
+                "yPos": 3
+            },
+            {
+                "xPos": 5,
+                "yPos": 4
+            },
+            {
+                "xPos": 5,
+                "yPos": 5
+            }
+        ],
+        "blowfans": []
+    },
+    {
+        "redBoxses": [
+            {
+                "xPos": 2,
+                "yPos": 7,
+                "txPos": 7,
+                "tyPos": 3
+            }
+        ],
+        "startWire": {
+            "xPos": 8,
+            "yPos": 7
+        },
+        "endWire": {
+            "xPos": 7,
+            "yPos": 2
+        },
+        "grayBoxes": [
+            {
+                "xPos": 8,
+                "yPos": 3
+            },
+            {
+                "xPos": 8,
+                "yPos": 4
+            },
+            {
+                "xPos": 8,
+                "yPos": 5
+            },
+            {
+                "xPos": 8,
+                "yPos": 6
+            }
+        ],
+        "blackboxes": [
+            {
+                "xPos": 3,
+                "yPos": 2
+            },
+            {
+                "xPos": 4,
+                "yPos": 2
+            },
+            {
+                "xPos": 5,
+                "yPos": 2
+            },
+            {
+                "xPos": 6,
+                "yPos": 2
+            },
+            {
+                "xPos": 4,
+                "yPos": 4
+            },
+            {
+                "xPos": 5,
+                "yPos": 4
+            },
+            {
+                "xPos": 6,
+                "yPos": 4
+            },
+            {
+                "xPos": 7,
+                "yPos": 4
+            },
+            {
+                "xPos": 9,
+                "yPos": 3
+            },
+            {
+                "xPos": 8,
+                "yPos": 2
+            },
+            {
+                "xPos": 9,
+                "yPos": 4
+            },
+            {
+                "xPos": 9,
+                "yPos": 5
+            },
+            {
+                "xPos": 9,
+                "yPos": 6
+            },
+            {
+                "xPos": 7,
+                "yPos": 5
+            },
+            {
+                "xPos": 7,
+                "yPos": 6
+            },
+            {
+                "xPos": 7,
+                "yPos": 7
+            },
+            {
+                "xPos": 8,
+                "yPos": 8
+            },
+            {
+                "xPos": 9,
+                "yPos": 7
+            }
+        ],
+        "blowfans": [
+            {
+                "xPos": 2,
+                "yPos": 3,
+                "rot": 0,
+                "blowLenght": 0
+            }
+        ]
+    },
+    {
+        "redBoxses": [
+            {
+                "xPos": 3,
+                "yPos": 4,
+                "txPos": 8,
+                "tyPos": 5
+            }
+        ],
+        "startWire": {
+            "xPos": 3,
+            "yPos": 8
+        },
+        "endWire": {
+            "xPos": 8,
+            "yPos": 3
+        },
+        "grayBoxes": [
+            {
+                "xPos": 4,
+                "yPos": 8
+            },
+            {
+                "xPos": 5,
+                "yPos": 8
+            },
+            {
+                "xPos": 6,
+                "yPos": 8
+            },
+            {
+                "xPos": 7,
+                "yPos": 8
+            },
+            {
+                "xPos": 8,
+                "yPos": 8
+            },
+            {
+                "xPos": 8,
+                "yPos": 7
+            },
+            {
+                "xPos": 8,
+                "yPos": 6
+            },
+            {
+                "xPos": 8,
+                "yPos": 4
+            }
+        ],
+        "blackboxes": [
+            {
+                "xPos": 7,
+                "yPos": 7
+            }
+        ],
+        "blowfans": [
+            {
+                "xPos": 6,
+                "yPos": 1,
+                "rot": 2,
+                "blowLenght": 0
+            }
+        ]
+    },
+    {
+        "redBoxses": [
+            {
+                "xPos": 3,
+                "yPos": 2,
+                "txPos": 1,
+                "tyPos": 0
+            }
+        ],
+        "startWire": {
+            "xPos": 0,
+            "yPos": 0
+        },
+        "endWire": {
+            "xPos": 0,
+            "yPos": 1
+        },
+        "grayBoxes": [
+            {
+                "xPos": 8,
+                "yPos": 5
+            }
+        ],
+        "blackboxes": [
+            {
+                "xPos": 4,
+                "yPos": 3
+            }
+        ],
+        "blowfans": [
+            {
+                "xPos": 4,
+                "yPos": 5,
+                "rot": 0,
+                "blowLenght": 0
+            }
+        ]
+    },
+    {
+        "redBoxses": [
+            {
+                "xPos": 3,
+                "yPos": 6,
+                "txPos": 7,
+                "tyPos": 2
+            }
+        ],
+        "startWire": {
+            "xPos": 7,
+            "yPos": 8
+        },
+        "endWire": {
+            "xPos": 1,
+            "yPos": 1
+        },
+        "grayBoxes": [
+            {
+                "xPos": 2,
+                "yPos": 1
+            },
+            {
+                "xPos": 3,
+                "yPos": 1
+            },
+            {
+                "xPos": 4,
+                "yPos": 1
+            },
+            {
+                "xPos": 5,
+                "yPos": 1
+            },
+            {
+                "xPos": 6,
+                "yPos": 1
+            },
+            {
+                "xPos": 7,
+                "yPos": 1
+            },
+            {
+                "xPos": 7,
+                "yPos": 3
+            },
+            {
+                "xPos": 7,
+                "yPos": 4
+            },
+            {
+                "xPos": 7,
+                "yPos": 5
+            },
+            {
+                "xPos": 7,
+                "yPos": 6
+            },
+            {
+                "xPos": 7,
+                "yPos": 7
+            },
+            {
+                "xPos": 8,
+                "yPos": 2
+            }
+        ],
+        "blackboxes": [],
+        "blowfans": [
+            {
+                "xPos": 2,
+                "yPos": 2,
+                "rot": 0,
+                "blowLenght": 0
+            }
+        ]
+    }
+]
