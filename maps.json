@@ -336,44 +336,6 @@
         "redBoxses": [
             {
                 "xPos": 3,
-                "yPos": 2,
-                "txPos": 1,
-                "tyPos": 0
-            }
-        ],
-        "startWire": {
-            "xPos": 0,
-            "yPos": 0
-        },
-        "endWire": {
-            "xPos": 0,
-            "yPos": 1
-        },
-        "grayBoxes": [
-            {
-                "xPos": 8,
-                "yPos": 5
-            }
-        ],
-        "blackboxes": [
-            {
-                "xPos": 4,
-                "yPos": 3
-            }
-        ],
-        "blowfans": [
-            {
-                "xPos": 4,
-                "yPos": 5,
-                "rot": 0,
-                "blowLenght": 0
-            }
-        ]
-    },
-    {
-        "redBoxses": [
-            {
-                "xPos": 3,
                 "yPos": 6,
                 "txPos": 7,
                 "tyPos": 2
