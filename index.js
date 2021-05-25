@@ -5,7 +5,7 @@ const {createCanvas, loadImage} = require("canvas");
 const fs = require("fs");
 const prefix = "?";
 const players = [];
-const gamesCat = "846382025640509461";
+const gamesCat = "695244461734625340";
 
 client.once("ready",() =>{
     console.log("Bot on");
