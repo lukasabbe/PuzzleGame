@@ -331,7 +331,7 @@ function createPlayer(id){
         id:id,
         xPos:1,
         yPos:1,
-        level:6,
+        level:0,
         map:undefined,
         removeTimer:false,
     }
